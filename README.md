@@ -41,7 +41,8 @@ Uma versão simplificada do Flappy Bird onde:
 
 ## ✨ Melhorias Futuras
 - Novos jogos para rodar na matriz de LEDs.
+- Implementação de efeitos sonoros através do Buzzer presente na BitDogLab.
 
 ## 📌 Créditos
-Desenvolvido para aprendizado e experimentação com a ferramenta de desenvolvimento BitDogLab e Raspberry Pi Pico W.
+Desenvolvido por Daniel Lucas Rios da Silva para aprendizado e experimentação com a ferramenta de desenvolvimento BitDogLab e Raspberry Pi Pico W.
 
